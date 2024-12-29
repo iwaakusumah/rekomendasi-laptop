@@ -1,4 +1,4 @@
-# Sistem Rekomendasi Laptop
+# Sistem Rekomendasi Laptop Sedeerhana
 
 Sistem Rekomendasi Laptop adalah sebuah aplikasi berbasis web yang dirancang untuk membantu pengguna dalam memilih laptop yang sesuai dengan kebutuhan mereka. Aplikasi ini dibangun menggunakan framework **Laravel**.
 
@@ -10,13 +10,14 @@ Sistem Rekomendasi Laptop adalah sebuah aplikasi berbasis web yang dirancang unt
 
 ## Teknologi yang Digunakan
 
-- **Framework Backend:** Laravel 10
+- **Framework Backend:** Laravel 11
 - **Database:** MySQL
-- **Frontend:** Blade, Bootstrap
+- **Frontend:** Bootstrap 5
 - **Server Requirements:**
-  - PHP >= 8.1
+  - PHP >= 8.2
   - Composer
-  - MySQL >= 5.7 atau MariaDB
+  - MySQL >= 5.7
+  - Laragon or XAMPP
 
 ## Instalasi
 
